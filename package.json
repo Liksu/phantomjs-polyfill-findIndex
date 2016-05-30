@@ -1,6 +1,6 @@
 {
   "name": "phantomjs-polyfill-find-index",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Polyfill for Array.prototype.findIndex",
   "main": "findIndex-polyfill.js",
   "scripts": {
