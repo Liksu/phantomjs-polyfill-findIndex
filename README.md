@@ -8,7 +8,7 @@ This is a polyfill for Array.prototype.findIndex which is missing from PhantomJS
 ## Installation
 
 ```
-    npm install --save-dev phantomjs-polyfill-findIndex
+    npm install --save-dev phantomjs-polyfill-find-index
 ```
 
 
